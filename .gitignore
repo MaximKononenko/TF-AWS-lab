@@ -1,0 +1,3 @@
+.terraform
+terraform.tfstate*
+ip_address.txt
