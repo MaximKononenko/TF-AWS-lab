@@ -2,3 +2,4 @@
 terraform.tfstate*
 ip_address.txt
 terraform.tfvars
+.idea
